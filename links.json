@@ -1,7 +1,7 @@
 
 {
-  "fancode": "https://dai.google.com/linear/hls/event/a1jTYSV-QgqAVdSTOEbxRA/master.m3u8",
+  "fancode": "https://dai.fancode.com/primary/117977_english_hls_8100ta-di/index.m3u8",
   "jio": "https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1739428809~acl=/*~id=1acd007748ec1f80292d0a7d5e128f5f~data=hdntl~hmac=a6f155f1f25a75e7c5bc0f2b6832cd31e36cedd9303378fcab5dca05f327a943/index.m3u8",
   "astro": "https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1739711330~acl=/*~id=63866e3757c8428cbbb028819b9be8b9~data=hdntl~hmac=590d7a7896ceaf20a95a53f6e580eb2b2d094c0fb56201931aaee18fcf3c7c00/index.m3u8",
-  "willow": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_120225/master_p1.m3u8"
+  "willow": "https://dai.fancode.com/primary/117977_english_hls_8100ta-di/index.m3u8"
 }
