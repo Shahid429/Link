@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.au/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNMzc2cjFoZTZDYTVtN0V5SzVjV21tR0Ntdld0MUVSWDFvcWVTdmc3TVJzRjB1N1ViK2lnYm9KQXlHTUxuS2gzUmtrRFY3WU9pTDRxdGh4TXhCNWp6cTFuU3UrVGZJcmhHWXE1RENDYm1BcVE=
+https://mix.drmlive.au/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNMzc2cjFoZTZDYTVtN0V5SzVjV21tR0Ntdld0MUVSWDFvcWVTdmc3TVJzRjB1N1ViK2lnYm9KQXlHTUxuS2gzUmtrRFY3WU9pTDRxdGh4TXhCNWp6cTMrOEVEZkY0NThJN2REWG9pZ3JGYzg=
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
