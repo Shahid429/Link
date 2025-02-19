@@ -2,6 +2,6 @@
 {
   "fancode": "https://dai.fancode.com/primary/117977_english_hls_8100ta-di/index.m3u8",
   "jio": "https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1739428809~acl=/*~id=1acd007748ec1f80292d0a7d5e128f5f~data=hdntl~hmac=a6f155f1f25a75e7c5bc0f2b6832cd31e36cedd9303378fcab5dca05f327a943/index.m3u8",
-  "astro": "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8",
+  "astro": "https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2",
   "willow": "https://dai.fancode.com/primary/117977_english_hls_8100ta-di/index.m3u8"
 }
